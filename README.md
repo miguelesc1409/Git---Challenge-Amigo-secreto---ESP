@@ -13,9 +13,9 @@ Funcionalidades
 ✅ Los datos se guardan en el almacenamiento local del navegador (persisten después de cerrar la página)
 
 Cómo usar
-Añadir amigos: Escribe el nombre de un amigo en el campo de texto y haz clic en "Añadir amigo".
+Añadir amigos: Escribe el nombre de un amigo en el campo de texto y haz clic en "Añadir".
 
-Ver la lista: Todos los amigos añadidos aparecerán en la sección "Mi lista de amigos".
+Ver la lista: Todos los amigos añadidos aparecerán automáticamente en la lista.
 
 Realizar sorteo: Haz clic en el botón "Sortear amigo" para seleccionar un amigo al azar de la lista. El resultado aparecerá en verde debajo de la lista.
 
@@ -34,7 +34,9 @@ JavaScript
 
 Capturas de funcionamiento:
 
-<img width="1348" height="639" alt="image" src="https://github.com/user-attachments/assets/528a5f65-a4b2-4ccf-b423-f7772b02489c" />
+<img width="1345" height="631" alt="image" src="https://github.com/user-attachments/assets/9956bff0-5aa3-47bb-944f-911b1011a43b" />
 
-<img width="1347" height="638" alt="image" src="https://github.com/user-attachments/assets/db4a3a1d-adf1-4738-a112-3d2bb3ab7a0a" />
+<img width="1347" height="634" alt="image" src="https://github.com/user-attachments/assets/74d2a0b4-3de8-43b3-9ba5-0828885ca6f5" />
+
+<img width="1350" height="637" alt="image" src="https://github.com/user-attachments/assets/9d753aa2-5ac1-40a3-aeac-6303effafce0" />
 
